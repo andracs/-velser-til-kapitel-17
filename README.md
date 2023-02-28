@@ -1,9 +1,6 @@
 # Python-eksempler fra bogen "Linux basics for hackers", kapitel 17
 
-Ordliste er fra https://github.com/berzerk0/Probable-Wordlists/blob/master/Real-Passwords/Top12Thousand-probable-v2.txt
-
-## Her er de 12.000 mest brugte passwords: Se om dit også er på listen
-https://www.computerworld.dk/art/244437/her-er-de-12-000-mest-brugte-passwords-se-om-dit-ogsaa-er-paa-listen 
+Ordlisten er fra [dette link](https://github.com/berzerk0/Probable-Wordlists/blob/master/Real-Passwords/Top12Thousand-probable-v2.txt), fra artiklen __["Her er de 12.000 mest brugte passwords: Se om dit også er på listen"](https://www.computerworld.dk/art/244437/her-er-de-12-000-mest-brugte-passwords-se-om-dit-ogsaa-er-paa-listen)__
 
 ## Demoserver
 Vi brugere denne server til vores forsøg:
