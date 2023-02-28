@@ -1,4 +1,4 @@
-# Pythonøvelser fra bogen "Linux basics for hackers"
+# Python-eksempler fra bogen "Linux basics for hackers", kapitel 17
 
 Ordliste er fra https://github.com/berzerk0/Probable-Wordlists/blob/master/Real-Passwords/Top12Thousand-probable-v2.txt
 
