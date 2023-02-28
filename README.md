@@ -8,7 +8,7 @@ Vi brugere denne server til vores forsøg:
 18.195.65.114
 ```
 
-:warning: **OBS!** András skal tænde for serveren for at øvelserne skal virke. 
+:warning: **OBS!** András skal tænde for serveren for at øvelserne virker. 
 
 Noget af det har jeg hentet fra https://github.com/IammyselfYBX/Linux_Basics_for_Hackers
 
