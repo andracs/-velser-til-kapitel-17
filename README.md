@@ -23,11 +23,8 @@ Vi kan godt videreudvikle denne "boilerplate"-kode, så det lever op til vores b
 
 Kan du finde eksempler på, hvordan "prompt engineering" kan hjælpe din programmeringshverdag? 
 
-__!!!! OBS !!!!!__
-Chat GPT (lige som Stackoverflow) kan også give forkerte resultater. 
+__!!!! OBS !!!!!__ Chat GPT (lige som Stackoverflow) kan også give forkerte resultater. 
 Så du skal ikke stole på resultaterne, men i stedet bør du forholde dig kritisk til dem.  
-__!!!! OBS !!!!!__
-
 
 ```
 import socket
@@ -58,6 +55,22 @@ def scan_port(port):
 for port in range(1, 9000):
     scan_port(port)`
 
+```
+
+# Rìgtige besvarelser
+
+```
+Port 21 er VSftpd
+Port 22 er SSH 
+Port 25 er Zealandbanner
+Port 80 er Apache Webserver
+Port 111 er NFS
+Port 180 er Zealandbanner
+Port 554 er Zealandbanner
+Port 1723 er Zealandbanner
+Port 1781 er Zealandbanner
+Port 3306 er MySQL
+Port 8788 er Zealandbanner
 ```
 
 ## Noter 
