@@ -5,7 +5,7 @@ import time
 
 server = input("FTP Server: ");
 
-user=input("username:  ");
+user=input("username:  "); # noobs
 
 Passwordlist=input("Path to PasswordList > ");
 
